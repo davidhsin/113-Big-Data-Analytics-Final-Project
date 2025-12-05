@@ -1,4 +1,4 @@
-# 蒙地卡羅模擬與機器學習分析投資組合風險
+# Monte Carlo & ML Portfolio Risk Analysis
 
 ### TODO:
 - 重構 codebase
